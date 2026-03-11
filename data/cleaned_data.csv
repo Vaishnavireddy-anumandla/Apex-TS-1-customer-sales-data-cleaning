@@ -1,0 +1,8 @@
+CustomerID,Name,DateOfBirth,Gender,Email,TransactionID,TransactionDate,Product,Amount,City,CustomerAge,ProductCategory
+101,Ravi Kumar,1998-05-12,Male,ravi@gmail.com,T001,2025-01-15,Laptop,55000,Hyderabad,27,Electronics
+102,Anita Sharma,1995-08-22,Female,anita@gmail.com,T002,,Mobile,25000,Bangalore,30,Electronics
+104,Sneha Reddy,2001-03-10,Female,sneha@gmail.com,T004,,Laptop,54000,Hyderabad,24,Electronics
+105,Ravi Kumar,1998-05-12,Male,ravi@gmail.com,T001,2025-01-15,Laptop,55000,Hyderabad,27,Electronics
+106,Aman Gupta,1990-12-01,Male,Not Available,T005,,Headphones,2000,Delhi,35,Accessories
+107,Priya Singh,1997-11-25,Female,priya@gmail.com,T006,,Mobile,24000,Mumbai,28,Electronics
+108,Karan Mehta,2003-06-14,Male,karan@gmail.com,T007,,Laptop,60000,Bangalore,22,Electronics
